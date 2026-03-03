@@ -11,7 +11,7 @@ I’m a developer interested in building real-world apps using Flutter, PHP/Lara
 - Tools & Services: GitHub, GitHub Copilot (Pro), Composer, npm, VS Code
 - Design: Figma, Canva
 
-## 👩💻 I’m currently working on
+## 💻 I’m currently working on
 
 - A car rental application (Flutter + Firebase / PHP backend)
 - Private repositories like e-shop and Traits (PHP)
