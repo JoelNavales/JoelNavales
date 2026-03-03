@@ -1,5 +1,44 @@
-# 💫 About Me:
-## 🚀 About Me<br><br>I'm **Joel Franco V. Navales**, a 3rd year **BSIT student at the University of San Jose–Recoletos** from Cebu, Philippines.  <br>I’m a **developer** interested in building real-world apps using **Flutter**, **PHP/Laravel**, and **Firebase**, and I enjoy exploring **UI/UX design** with **Figma** and **Canva**.<br><br>---<br><br>## 🛠 Tech Stack<br><br>- **Languages:** PHP, Dart, HTML, CSS, C, C++, Swift  <br>- **Frameworks & Tools:** Laravel, Flutter (with BLoC & Clean Architecture), React (learning)  <br>- **Backend & Cloud:** Firebase (Auth, Firestore, etc.)  <br>- **Tools & Services:** GitHub, GitHub Copilot (Pro), Composer, npm, VS Code  <br>- **Design:** Figma, Canva<br><br>---<br><br>## 💻 I’m currently working on<br><br>- A **car rental application** (Flutter + Firebase / PHP backend)<br>- Private repositories like **`e-shop`** and **`Traits`** (PHP)<br><br>---<br><br>## 🧠 I’m currently learning<br><br>- **Flutter** best practices (BLoC, Clean Architecture)  <br>- **Laravel** for web development and APIs  <br>- **React** for modern frontend development  <br>- Better **unit testing** and clean, maintainable code<br><br>---<br><br>## 👯 I’m looking to collaborate on<br><br>- Small to medium **Flutter** apps (especially Firebase-backed apps)  <br>- **Laravel** or **PHP**-based web projects  <br>- Student or open-source projects where I can learn and contribute<br><br>---<br><br>## 🤔 I’m looking for help with<br><br>- Advanced **Firebase CLI** workflows and deployment  <br>- Handling **npm deprecation warnings** in modern JS/TS setups<br><br>---<br><br>## 💬 Ask me about<br><br>- Getting started with **Flutter + Firebase**  <br>- Basic **Laravel** projects and PHP backend setup  <br>- Using **GitHub Copilot** effectively for student projects<br><br>---<br><br>## 📫 How to reach me<br><br>- **Email (personal):** navales546@gmail.com  <br>- **Academic email:** joelfranco.navales.23@usjr.edu.ph  <br>- **GitHub:** [@JoelNavales](https://github.com/JoelNavales)<br><br>---<br><br>## ⚡️ Fun fact<br><br>When I’m not coding, I enjoy **photography** (I shoot with a Nikon Z50), watching **football**, and playing **chess** and **video games** like Call of Duty and Tekken.<br>
+🚀 About Me
+
+I’m Joel Franco V. Navales, a 3rd year BSIT student at the University of San Jose–Recoletos from Cebu, Philippines.
+I’m a developer interested in building real-world apps using Flutter, PHP/Laravel, and Firebase, and I enjoy exploring UI/UX design with Figma and Canva.
+
+## 🛠 Tech Stack
+
+- Languages: PHP, Dart, HTML, CSS, C, C++, Swift
+- Frameworks & Tools: Laravel, Flutter (with BLoC & Clean Architecture), React (learning)
+- Backend & Cloud: Firebase (Auth, Firestore, etc.)
+- Tools & Services: GitHub, GitHub Copilot (Pro), Composer, npm, VS Code
+- Design: Figma, Canva
+
+## 👩💻 I’m currently working on
+
+- A car rental application (Flutter + Firebase / PHP backend)
+- Private repositories like e-shop and Traits (PHP)
+
+## 🧠 I’m currently learning
+
+- Flutter best practices (BLoC, Clean Architecture)
+- Laravel for web development and APIs
+- React for modern frontend development
+- Better unit testing and clean, maintainable code
+
+
+## 💬 Ask me about
+
+- Getting started with Flutter + Firebase
+- Basic Laravel projects and PHP backend setup
+- Using GitHub Copilot effectively for student projects
+
+## 📫 How to reach me
+
+- Email (personal): navales546@gmail.com
+- Academic email: joelfranco.navales.23@usjr.edu.ph
+- GitHub: @JoelNavales
+
+## ⚡️ Fun fact
+
+When I’m not coding, I enjoy photography (I shoot with a Nikon Z50), watching football, and playing chess and video games like Call of Duty and Tekken.
 
 
 # 💻 Tech Stack:
