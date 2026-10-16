@@ -1,15 +1,7 @@
-🚀 About Me
+## 🚀 About Me
 
 I’m Joel Franco V. Navales, a 3rd year BSIT student at the University of San Jose–Recoletos from Cebu, Philippines.
 I’m a developer interested in building real-world apps using Flutter, PHP/Laravel, and Firebase, and I enjoy exploring UI/UX design with Figma and Canva.
-
-## 🛠 Tech Stack
-
-- Languages: PHP, Dart, HTML, CSS, C, C++, Swift
-- Frameworks & Tools: Laravel, Flutter (with BLoC & Clean Architecture), React (learning)
-- Backend & Cloud: Firebase (Auth, Firestore, etc.)
-- Tools & Services: GitHub, GitHub Copilot (Pro), Composer, npm, VS Code
-- Design: Figma, Canva
 
 ## 💻 I’m currently working on
 
